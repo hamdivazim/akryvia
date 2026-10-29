@@ -138,7 +138,14 @@ Exit criteria
 
 ## Flowcharts
 
-* Already made - to be added very soon
+<details>
+    <summary>Full System</summary>
+    <img src="flowcharts/full_system.png" />
+</details>
+<details>
+    <summary>Detect Marker</summary>
+    <img src="flowcharts/detect_marker.png" />
+</details>
 
 ## Key Requirements
 
